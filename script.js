@@ -91,7 +91,7 @@ function generatePassword() {
 
   // generates random password
   var password = "";
-  for (let i = 0; i < numberOfCharacters; i++) {
+  for ( i = 0; i < numberOfCharacters; i++) {
     randomizer =[Math.floor(Math.random() * possibleCombinations.length)];    
     password = password + possibleCombinations[randomizer];
   }

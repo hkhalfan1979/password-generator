@@ -1,5 +1,9 @@
 # password-generator
 
+The assignment is to create a webpage that generates a random password based on given criteria. The purpose behind the task is to understand how Arrays, Selectors, functions etc works in Javascript.
+
+
+
 ## Acceptance Criteria
 
 ```
