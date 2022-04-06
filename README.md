@@ -1,8 +1,12 @@
+# URL
+
+https://hkhalfan1979.github.io/password-generator/
+
 # password-generator
 
 The assignment is to create a webpage that generates a random password based on given criteria. The purpose behind the task is to understand how Arrays, Selectors, functions etc works in Javascript.
 
-
+![A user clicks on slots on the color-coded calendar and edits the events.](./assets/hk-password-generator.png)
 
 ## Acceptance Criteria
 
